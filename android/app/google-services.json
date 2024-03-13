@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "894225236536",
+    "project_id": "gooads-74df8",
+    "storage_bucket": "gooads-74df8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:894225236536:android:4bb888691706b82ddadccd",
+        "android_client_info": {
+          "package_name": "com.gooads.gooads"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "894225236536-rr2u3fnnitkr9njmf06r4kb3obujsf15.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gooads.gooads",
+            "certificate_hash": "c7eeb805ac6618d56193594a524bedae700f0114"
+          }
+        },
+        {
+          "client_id": "894225236536-dj6j79e075uoha8a9j2lf1lj3ishutqo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAj5JAfR-DqbGzbI3tD1YXucmbqMfjmK9g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "894225236536-dj6j79e075uoha8a9j2lf1lj3ishutqo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
